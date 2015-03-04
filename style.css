@@ -1,0 +1,3 @@
+body.expanded #wrapper, body.expanded #page, body.haspane #page {
+  width:974px !important;
+}
